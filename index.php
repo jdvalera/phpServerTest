@@ -26,7 +26,7 @@ a.send();
  
 $(document).ready(function()
  
-{ $('#Off').click(function(){
+{ $('#off').click(function(){
  
 var a= new XMLHttpRequest();
  
